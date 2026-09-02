@@ -1,0 +1,9 @@
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hash_empty={}
+        for i, ele_a in enumerate(nums):
+            complement = target-ele_a
+            if complement in hash_empty:
+                return [hash_empty[complement],i]
+            hash_empty[ele_a]=i
+            
