@@ -4,7 +4,7 @@ Solutions organized by topic, each with the problem link and my approach noted.
 ## Progress
 | Topic | Problems Solved |
 |---|---|
-| Arrays | 11 |
+| Arrays | 12 |
 | Strings | 11 |
 | Linked Lists | 2 |
 | Trees | 0 |
