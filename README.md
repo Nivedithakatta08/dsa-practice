@@ -9,7 +9,7 @@ Solutions organized by topic, each with the problem link and my approach noted.
 | Linked Lists | 2 |
 | Trees | 0 |
 | Graphs | 0 |
-| DP | 0 |
+| DP | 1 |
 | Math | 5 |
 
 ## Structure
