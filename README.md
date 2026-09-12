@@ -5,7 +5,7 @@ Solutions organized by topic, each with the problem link and my approach noted.
 | Topic | Problems Solved |
 |---|---|
 | Arrays | 13 |
-| Strings | 11 |
+| Strings | 12 |
 | Linked Lists | 2 |
 | Trees | 0 |
 | Graphs | 0 |
